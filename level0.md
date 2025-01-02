@@ -79,6 +79,8 @@ I learned the basics of the ESP32 microcontroller and how to set up a standalone
 
 This task introduced me to the fundamentals of working with the ESP32 and using it for simple IoT applications. It provided a good starting point for exploring hardware programming and web-based device control.
 
+![alt text](ESP32.jpg)
+
 
 
 # Task : Soldering 
@@ -104,7 +106,11 @@ This task enhanced my understanding of logic gates, K-map simplification, and th
 # Task:Active Participation
 
 I took part in a few Hackathons and student conferences 
+![alt text](certificate1.jpg)
 
+![alt text](certificate2.jpg)
+
+![alt text](certificate3.jpg)
 
 
 # Task:Datasheets report writing
@@ -114,6 +120,7 @@ I studied the datasheet of the MQ135 gas sensor and wrote a detailed report on i
 The report was hosted on the MARVEL website, helped me learn how to interpret datasheets, understand sensor calibrations, and present technical details in a structured format.
 
 https://hub.uvcemarvel.in/article/3e741582-852b-44e3-8411-ee1f18c56c9e
+
 
 
 # Task:Sad servers: "Like leetcode for Linux"
@@ -135,8 +142,14 @@ This project helped me learn how to combine mobile tracking with real-time data 
 
 ![alt text](webapp1.png)
 
-# Task: Create a Portfolio Website
+# Task: Create a Portfolio Webpage
 
 I created a responsive portfolio webpage to showcase my skills, projects, and social media profiles. Using HTML, CSS, and a framework like Bootstrap, I designed the site to be functional on both desktop and mobile.
 
 After completing the webpage, I pushed it to a Git repository, making it publicly accessible. This task helped me improve my web development skills and provided a platform to present my work.
+
+https://github.com/Lahari-nagaraj/Basic_portfolio
+
+![alt text](portfolio1.png)
+
+![alt text](portfolio2.png)
